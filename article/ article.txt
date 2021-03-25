@@ -1,0 +1,952 @@
+<!DOCTYPE HTML>
+<html lang="fr-FR">
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+<title>OM : Milik, l'Euro en ligne de mire  - Autour de l'OM | OM actualité par Le Phocéen</title>
+<meta name="description" content="L’international polonais retrouve ce jeudi la sélection à l’occasion des qualifications pour la Coupe du Monde 2022." />
+<meta name="keywords" content="OM,Milik,Euro,ligne,mire,Autour,international,polonais,retrouve,jeudi,selection,occasion,qualifications,pour,Coupe,Monde" />
+<meta name="author" content="Le Phocéen" />
+<link type="text/css" href="https://static.lephoceen.net/css/style.min.css?v=1615023832" rel="stylesheet" />
+
+<link rel="canonical" href="https://www.lephoceen.fr/infos-om/autour-de-l-om/om-milik-l-euro-en-ligne-de-mire-187244" />
+<script type="text/javascript" src="https://static.lephoceen.net/js/main.min.js?v=1608750638" ></script>
+<script type="text/javascript">
+// <![CDATA[
+ tAdbanner=[];
+adbannerurl='https://api.lephoceen.fr/ad/statistic';
+adbannerdevice='desktop';
+// ]]>
+</script><meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@lephoceen">
+<meta name="twitter:creator" content="@lephoceen">
+<meta name="twitter:title" content="OM : Milik, l'Euro en ligne de mire ">
+<meta name="twitter:description" content="L’international polonais retrouve ce jeudi la sélection à l’occasion des qualifications pour la Coupe du Monde 2022.">
+<meta name="twitter:image:src" content="https://static.lephoceen.net/images/une/210203_b_milik.jpg">
+<meta name="twitter:image:width" content="670">
+<meta name="twitter:image:height" content="295">
+<meta property="og:type" content="article" />
+<meta property="og:title" content="OM : Milik, l'Euro en ligne de mire " />
+<meta property="og:description" content="L’international polonais retrouve ce jeudi la sélection à l’occasion des qualifications pour la Coupe du Monde 2022." />
+<meta property="og:site_name" content="Le Phocéen" />
+<meta property="og:url" content="https://www.lephoceen.fr/infos-om/autour-de-l-om/om-milik-l-euro-en-ligne-de-mire-187244" />
+<meta property="og:image" content="https://static.lephoceen.net/images/une/210203_b_milik.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="670" />
+<meta property="og:image:height" content="295" />
+<meta property="article:author" content="Le Phocéen" />
+<meta property="article:published_time" content="2021-03-24T18:00:41+01:00" />
+<meta property="article:modified_time" content="2021-03-24T18:04:53+01:00" />
+<meta property="article:section" content="sport" />
+<meta property="og:locale" content="fr_FR" />
+<meta itemscope itemtype="https://schema.org/Article">
+<meta itemprop="name" content="OM : Milik, l'Euro en ligne de mire ">
+<meta itemprop="text" content="L’international polonais retrouve ce jeudi la sélection à l’occasion des qualifications pour la Coupe du Monde 2022.">
+<meta itemprop="url" content="https://www.lephoceen.fr/infos-om/autour-de-l-om/om-milik-l-euro-en-ligne-de-mire-187244">
+<meta itemprop="articleSection" content="Autour de l'OM">
+<meta itemprop="thumbnailUrl" content="https://static.lephoceen.net/images/une/210203_b_milik.jpg">
+<link rel="amphtml" href="https://www.lephoceen.fr/amp/infos-om/autour-de-l-om/om-milik-l-euro-en-ligne-de-mire-187244">
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script async defer src="https://www.instagram.com/embed.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+
+<script type="text/javascript" src="https://cache.consentframework.com/js/pa/26468/c/ts2bp/stub" charset="utf-8"></script><script type="text/javascript" src="https://choices.consentframework.com/js/pa/26468/c/ts2bp/cmp" charset="utf-8" async></script>
+
+<script type="text/javascript">
+adbannertostatistic(12,239);
+</script>
+
+
+<script type="text/javascript">
+var ADS_BLOCKED = true;
+</script>
+<script type="text/javascript" src="https://static.lephoceen.net/js/advert.js"></script>
+
+<script type="text/javascript">
+adbannertostatistic(12,98);
+</script>
+
+
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+window._taboola.push({article: "auto"});
+
+!function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/lephoceen/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+
+<script type="text/javascript">
+adbannertostatistic(12,6);
+</script>
+
+</head><body class="desktop other" >
+<div id="fb-root"></div>
+                    <script>(function(d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) return;
+                    js = d.createElement(s); js.id = id;
+                    js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.3";
+                    fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="197-5"><script src="//ads.themoneytizer.com/s/gen.js?type=5"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=197&formatId=5" ></script></div>
+
+<script type="text/javascript">
+adbannertostatistic(15,225);
+</script>
+
+
+<script>
+  window.beOpinionAsyncInit = function() {
+    BeOpinionSDK.init({
+      account: "58a70056a78ec726218b60cf",
+    });
+    BeOpinionSDK.watch();
+  }
+</script>
+<script async="1" src="https://widget.beopinion.com/sdk.js"></script>
+
+<script type="text/javascript">
+adbannertostatistic(15,114);
+</script>
+
+<div id="menupage">
+	<nav id="mainmenu" class="l-nav"><ul>
+    <li>
+        <a href="/">
+            <i class="ion-home" title="Accueil"></i> Accueil
+        </a>
+    </li>
+    
+            <li>
+            <a href="https://www.lephoceen.fr/mon-compte/login-redirect?url=https:%2F%2Fwww.lephoceen.fr%2Finfos-om%2Fautour-de-l-om%2Fom-milik-l-euro-en-ligne-de-mire-187244">
+                <i class="ion-person" title="Connexion"></i> Connexion
+            </a>
+        </li>
+    
+    <li>
+        <a href="https://www.lephoceen.fr/mon-compte/cashback">
+		Pouvoir d'achat
+		</a>
+	</li>
+    <li>
+        <a href="https://www.lephoceen.fr/infos-om/mercato"
+            onclick="return xt_click(this,'C','11','menu::mercato::mercato','N')">
+            Mercato OM
+        </a>
+    </li>
+
+    <li>
+        <span>Saison</span>
+        <ul>
+            <li>
+                <a href="https://www.lephoceen.fr/agenda"
+                    onclick="return xt_click(this,'C','11','menu::saison::agenda_om','N')">
+                    Agenda OM                </a>
+            </li>
+            <li>
+                <a href="https://www.lephoceen.fr/effectif"
+                    onclick="return xt_click(this,'C','11','menu::saison::effectif_om','N')">
+                    Effectif OM                </a>
+            </li>
+                            <li>
+                    <span>Matchs amicaux</span>
+                    <ul>
+                                                <li>
+                                                            <a href="https://www.lephoceen.fr/calendrier/amicaux"
+                                    onclick="return xt_click(this,'C','11','menu::amicaux::calendrier}','N')">
+                                    Calendrier
+                                </a>
+                                                    </li>
+                    </ul>
+                </li>
+                            <li>
+                    <span>Ligue 1</span>
+                    <ul>
+                        <li>
+                                <a href="https://www.lephoceen.fr/classement/ligue-1"
+                                    onclick="return xt_click(this,'C','11','menu::ligue_1::classement','N')">
+                                    Classement
+                                </a>
+                        </li>                        <li>
+                                                            <span>Calendrier</span>
+                                <ul>
+                                    <li>
+                                            <a href="https://www.lephoceen.fr/calendrier/ligue-1/match-aller-428"
+                                                onclick="return xt_click(this,'C','11','menu::ligue_1::calendrier_match_aller','N')">
+                                                Match aller                                            </a>
+                                    </li><li>
+                                            <a href="https://www.lephoceen.fr/calendrier/ligue-1/match-retour-429"
+                                                onclick="return xt_click(this,'C','11','menu::ligue_1::calendrier_match_retour','N')">
+                                                Match retour                                            </a>
+                                    </li>                                </ul>
+                                                    </li>
+                    </ul>
+                </li>
+                            <li>
+                    <span>Ligue des Champions</span>
+                    <ul>
+                                                <li>
+                                                            <a href="https://www.lephoceen.fr/calendrier/ligue-des-champions"
+                                    onclick="return xt_click(this,'C','11','menu::ligue_des_champions::calendrier}','N')">
+                                    Calendrier
+                                </a>
+                                                    </li>
+                    </ul>
+                </li>
+                            <li>
+                    <span>Trophée des Champions</span>
+                    <ul>
+                                                <li>
+                                                            <a href="https://www.lephoceen.fr/calendrier/trophee-des-champions"
+                                    onclick="return xt_click(this,'C','11','menu::trophee_des_champions::calendrier}','N')">
+                                    Calendrier
+                                </a>
+                                                    </li>
+                    </ul>
+                </li>
+                            <li>
+                    <span>Coupe de France</span>
+                    <ul>
+                                                <li>
+                                                            <a href="https://www.lephoceen.fr/calendrier/coupe-de-france"
+                                    onclick="return xt_click(this,'C','11','menu::coupe_de_france::calendrier}','N')">
+                                    Calendrier
+                                </a>
+                                                    </li>
+                    </ul>
+                </li>
+                    </ul>
+    </li>
+
+    <li>
+        <a href="https://www.lephoceen.fr/videos-om"
+            onclick="return xt_click(this,'C','11','menu::video_replay','N')">
+            Vidéos OM
+        </a>
+    </li>
+    <li>
+        <a href="https://www.lephoceen.fr/podcast-om">
+            Podcast OM
+        </a>
+    </li>
+    <li>
+        <a href="https://www.lephoceen.fr/videos-om/bien-etre">
+            Le Phocéen bien être
+        </a>
+    </li>
+            <li>
+            <a href="https://www.lephoceen.fr/mag/LPMAG_21/">
+                Le Phocéen Mag
+            </a>
+        </li>
+        <li><a href="https://forum.lephoceen.fr" onclick="return xt_click(this,'C','11','menu::forum','N')">Forum</a></li>
+    <li>
+        <span>Club</span>
+        <ul>
+            <li><a href="https://www.lephoceen.fr/infos-club"
+                    onclick="return xt_click(this,'C','11','menu::club::infos_club','N')">Infos club</a></li>
+            <li><a href="https://www.lephoceen.fr/-palmares-"
+                    onclick="return xt_click(this,'C','11','menu::club::palmares','N')">Palmarès</a></li>
+            <li>
+                <span>Groupes de supporters</span>
+                <ul>
+                                            <li><a href="https://www.lephoceen.fr/groupes-de-supporters#CCS"
+                                onclick="return xt_click(this,'C','11','menu::club::groupes_de_supporters::ccs','N')">Club Central des Supporters</a>
+                        </li>
+                                            <li><a href="https://www.lephoceen.fr/groupes-de-supporters#CAOM"
+                                onclick="return xt_click(this,'C','11','menu::club::groupes_de_supporters::caom','N')">Club des Amis de l'OM</a>
+                        </li>
+                                            <li><a href="https://www.lephoceen.fr/groupes-de-supporters#CU84"
+                                onclick="return xt_click(this,'C','11','menu::club::groupes_de_supporters::cu84','N')">Commando Ultra' 84</a>
+                        </li>
+                                            <li><a href="https://www.lephoceen.fr/groupes-de-supporters#DM92"
+                                onclick="return xt_click(this,'C','11','menu::club::groupes_de_supporters::dm92','N')">Dodger's Marseille</a>
+                        </li>
+                                            <li><a href="https://www.lephoceen.fr/groupes-de-supporters#FAN88"
+                                onclick="return xt_click(this,'C','11','menu::club::groupes_de_supporters::fan88','N')">Fanatics Marseille</a>
+                        </li>
+                                            <li><a href="https://www.lephoceen.fr/groupes-de-supporters#HANDIFAN"
+                                onclick="return xt_click(this,'C','11','menu::club::groupes_de_supporters::handifan','N')">Handi Fan Club</a>
+                        </li>
+                                            <li><a href="https://www.lephoceen.fr/groupes-de-supporters#MTP"
+                                onclick="return xt_click(this,'C','11','menu::club::groupes_de_supporters::mtp','N')">Marseille Trop Puissant</a>
+                        </li>
+                                            <li><a href="https://www.lephoceen.fr/groupes-de-supporters#SW87"
+                                onclick="return xt_click(this,'C','11','menu::club::groupes_de_supporters::sw87','N')">South Winners 87</a>
+                        </li>
+                                    </ul>
+            </li>
+        </ul>
+    </li>
+            <li>
+            <a href="https://www.winamax.fr/landing/landing_leads.php?ldg=1er-pari-rembourse&banid=33643" rel="nofollow external">
+                Pariez            </a>
+        </li>
+        <li>
+        <a href="https://www.lephoceenstore.fr" rel="external">
+            Boutique
+        </a>
+    </li>
+    <li>
+        <a href="https://billetterie.om.fr/lephoceen/fr" rel="external">
+            Billetterie
+        </a>
+    </li>
+    <li>
+        <a href="https://support.lephoceen.fr" rel="external">
+            Contact / Support
+        </a>
+    </li>
+</ul></nav>
+	
+	<script>
+		$('#OAS_RMF_TopRight_LAYER').addClass("Fixed");
+		$("#mainmenu").mmenu({
+			offCanvas: {
+				zposition: "front",
+				menuWrapperSelector: "#menupage"
+			}
+		});
+	</script>
+	
+	<header class="l-header clearfix Fixed">
+		<div class="table l-header__table">
+	<div class="table-row">
+		<div class="table-cell l-header__table-cell l-header__mainmenubtn">
+			<a href="#mainmenu"><i class="ion-navicon-round" data-class-switch="ion-navicon-round ion-close"></i> <span class="l-header__mainmenubtn__text">Menu</span></a>
+		</div>
+		<div class="table-cell l-header__table-cell l-header__logo">
+			<a href="https://www.lephoceen.fr/"><img alt="Logo Le Phocéen" src="https://static.lephoceen.net/cache/images/df52d96adc435fbcf8e78c9382c1ee6b.png" style="width:100%;max-width:196px;"/></a>
+		</div>
+		<div class="table-cell l-header__table-cell l-header__userbox"><div class="m-userbox m-userbox--offline">
+	<div class="m-userbox__body clearfix">	
+	
+		<a href="https://www.lephoceen.fr/mon-compte/login-redirect?url=https:%2F%2Fwww.lephoceen.fr%2Finfos-om%2Fautour-de-l-om%2Fom-milik-l-euro-en-ligne-de-mire-187244"><i class="ion-person m-userbox__avatar btn"></i> <span class="m-userbox__signin">Connexion</span></a>
+		</div>
+</div></div>
+		<div class="table-cell l-header__table-cell l-header__link l-header__link--billetterie">
+			<a href="https://billetterie.om.fr/lephoceen/fr" target="_blank"><i class="ion-pricetag"></i> <span>Billetterie</span></a>
+		</div>
+		<div class="table-cell l-header__table-cell l-header__link l-header__link--store">
+			<a href="https://www.lephoceenstore.fr" target="_blank"><i class="ion-bag"></i> <span>Boutique</span></a>
+		</div>
+		<div class="table-cell l-header__table-cell l-header__slide"><div class="m-slide m-bloc m-bloc--card">
+	<div class="m-slide__body m-bloc__body">
+		<div class="m-slide__match m-slide__match--last">
+			<div class="table">
+				<div class="table-row">					
+															<div class="m-slide__col table-cell m-slide__col--logohome">
+						<img class="m-slide__logo" src="https://static.lephoceen.net/cache/images/dc6d3a6e419ee69b4170e6ff1f3e4b62.png" style="width: 100%; max-width: 26px" alt="" />					</div>
+															<div class="m-slide__col table-cell m-slide__col--logoaway">
+						<img class="m-slide__logo" src="https://static.lephoceen.net/cache/images/2aa529e9abac784a0c2d45b6221480f9.png" style="width: 100%; max-width: 26px" alt="" />					</div>
+										<div class="m-slide__col table-cell m-slide__col--details">
+						<p class="m-slide__team">Nice 3-0 OM</p>
+						<p class="m-slide__date">sam. 20/03</p>			
+						<p class="m-slide__broadcaster">17:00 <img class="m-slide__broadcaster" src="https://static.lephoceen.net/cache/images/2a7bd7881fd92bf81cec764a95b0679a.png" style="width: 100%; max-width: 35px" alt="" /></p> 
+					</div>
+										<div class="m-slide__col table-cell m-slide__col--nav" data-targetclass="m-slide__match--next">
+						<p>PROCHAIN</p>
+						<p>MATCH</p>
+					</div>
+										
+					<div class="m-slide__col table-cell m-slide__col--betlink" style="width: 100px;">
+						<a href="https://www.winamax.fr/landing/landing_leads.php?ldg=1er-pari-rembourse&banid=33643" rel="nofollow external"><img alt="PARIEZ" src="https://static.lephoceen.net/cache/images/798e397d5948804a06b36e3a25f7275b.jpg" style="width:100px;"/></a>
+					</div>
+									</div>
+			</div>
+		</div>
+		<div class="m-slide__match m-slide__match--next active">			
+			<div class="table">
+				<div class="table-row">
+															<div class="m-slide__col table-cell m-slide__col--logohome">
+						<img class="m-slide__logo" src="https://static.lephoceen.net/cache/images/2aa529e9abac784a0c2d45b6221480f9.png" style="width: 100%; max-width: 26px" alt="" />					</div>
+															<div class="m-slide__col table-cell m-slide__col--logoaway">
+						<img class="m-slide__logo" src="https://static.lephoceen.net/cache/images/d1d4459de9612ac0d25aba83bef1cc8e.png" style="width: 100%; max-width: 26px" alt="" />					</div>
+										<div class="m-slide__col table-cell m-slide__col--details">
+						<p class="m-slide__team">OM - Dijon</p>
+						<p class="m-slide__date">dim. 04/04</p>			
+						<p class="m-slide__broadcaster">21:00 <img class="m-slide__broadcaster" src="https://static.lephoceen.net/cache/images/2a7bd7881fd92bf81cec764a95b0679a.png" style="width: 100%; max-width: 35px" alt="" /></p> 
+					</div>
+										<div class="m-slide__col table-cell m-slide__col--nav" data-targetclass="m-slide__match--last">
+						<p>DERNIER</p>
+						<p>MATCH</p>
+					</div>
+										
+					<div class="m-slide__col table-cell m-slide__col--betlink" style="width: 100px;">
+						<a href="https://www.winamax.fr/landing/landing_leads.php?ldg=1er-pari-rembourse&banid=33643" rel="nofollow external"><img alt="PARIEZ" src="https://static.lephoceen.net/cache/images/798e397d5948804a06b36e3a25f7275b.jpg" style="width:100px;"/></a>
+					</div>
+										
+				</div>
+			</div>			
+			
+			
+			
+		</div>
+	</div>
+</div></div>
+		<div class="table-cell l-header__table-cell l-header__followus"><div class="m-followus m-bloc m-bloc--header m-bloc--card">
+	<div class="m-followus__header m-bloc__header"><i class="ion-chevron-right"></i>Nous suivre</div>
+	<div class="m-followus__body m-bloc__body clearfix">	
+		<a href="https://www.facebook.com/LePhoceen.fr" rel="external" class="m-followus__item btn btn--facebook" data-social="facebook"><i class="ion-social-facebook"></i></a>		<a href="https://twitter.com/lephoceen" rel="external" class="m-followus__item btn btn--twitter" data-social="twitter"><i class="ion-social-twitter"></i></a>		<a href="http://instagram.com/lephoceenoff" rel="external" class="m-followus__item btn btn--instagram" data-social="instagram"><i class="ion-social-instagram"></i></a>		<a href="https://www.lephoceen.fr/-snapchat-" rel="external" class="m-followus__item btn btn--snapchat" data-social="snapchat"><i class="ion-social-snapchat"></i></a>				<a href="https://www.youtube.com/channel/UCSzx_YuvN_OpWRCjP83V4-Q" rel="external" class="m-followus__item btn btn--youtube" data-social="youtube"><i class="ion-social-youtube"></i></a>			</div>
+</div></div>		
+		<div class="table-cell l-header__table-cell l-header__link l-header__link--support">
+			<a href="https://support.lephoceen.fr" target="_blank"><i class="fas fa-envelope-open-text"></i> <span>Contact/Support</span></a>
+		</div>
+	</div>
+</div>
+
+
+
+	</header>
+		<div id="habillage">
+		<div class="l-body l-constrained l-news">
+			<div class="megaban megaban--top"><div class="m-adbanner m-bloc m-adbanner--megaban" data-zoneid="1" data-id="231" data-page="NewsWithVideo">
+	
+<div id="197-1"><script src="//ads.themoneytizer.com/s/gen.js?type=1"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=197&formatId=1" ></script></div>
+</div>
+
+<script type="text/javascript">
+adbannertostatistic(1,231);
+</script>
+
+</div>
+			<div class="l-main table">
+				<div class="table-row">
+					<div id="mainleft" class="l-mainleft l-mainitem l-mainitem--active table-cell"><div class="m-mainabove m-bloc">
+	<div class="m-mainabove__body m-bloc__body clearfix">
+		<a href="https://www.lephoceen.fr/" class="btn m-mainabove__btn m-mainabove__btn--home"><i class="ion-home"></i> ACTU OM</a>
+		<a class="btn btn--red m-mainabove__btn m-mainabove__btn--transfer" href="https://www.lephoceen.fr/infos-om/mercato"><i class="fas fa-exchange-alt"></i> MERCATO OM</a>		<a href="https://www.lephoceen.fr/mon-compte/cashback" class="btn btn--black m-mainabove__btn m-mainabove__btn--video" rel="nofollow">POUVOIR D'ACHAT</a>
+		<a href="https://www.lephoceen.fr/podcast-om" class="btn btn--blackinverted m-mainabove__btn m-mainabove__btn--home"><i class="fas fa-podcast"></i> PODCAST OM</a>
+		<a href="https://www.winamax.fr/landing/landing_leads.php?ldg=1er-pari-rembourse&banid=33643" style="padding: 0;" class="m-mainabove__btn m-mainabove__btn--betlink" rel="nofollow external"><img alt="PARIEZ" src="https://static.lephoceen.net/cache/images/cd30bb712b8f715dfb259fef8c5c6f34.jpg" style="width:70px;"/></a>		<a href="https://forum.lephoceen.fr" class="btn btn--darkblue m-mainabove__btn m-mainabove__btn--forum"><i class="ion-chatbubbles"></i> FORUM</a>
+	</div>
+</div>
+<script type="text/javascript">
+	content_pubdate = "20210324";
+</script>
+<div class="m-news m-bloc m-content m-bloc--card">
+		<div class="m-news__body m-bloc__body m-content__body">
+				<div class="m-videoplayer m-bloc">
+	<div class="m-videoplayer__body m-videoplayer__body--dailymotion-standard" style="display: block;"><script src="https://geo.dailymotion.com/player/xgi6.js" data-video="x801gmt" data-params="mute=true"></script></div>
+</div>
+				<h1 class="m-news__title m-content__title">OM : Milik, l'Euro en ligne de mire </h1>
+				<p class="m-news__subtitle m-content__subtitle"><a href="https://www.lephoceen.fr/infos-om/autour-de-l-om">Autour de l'OM</a> | Publié le 24/03/2021 à 18:00</p>
+		<h2 class="m-news__synopsis">L’international polonais retrouve ce jeudi la sélection à l’occasion des qualifications pour la Coupe du Monde 2022.</h2><div class="m-shared m-bloc clearfix">
+	<a href="https://www.facebook.com/sharer.php?u=https://www.lephoceen.fr/infos-om/autour-de-l-om/om-milik-l-euro-en-ligne-de-mire-187244" rel="external nofollow" class="m-shared__item btn btn--facebook" onclick="return xt_click(this,'C','11','boutons_sociaux::Partage_article::facebook::om_milik_l_euro_en_ligne_de_mire','A')" data-social="facebook"><i class="ion-social-facebook"></i> <span class="m-shared__item__text">Partager</span></a>
+	<a href="https://twitter.com/intent/tweet?url=https://www.lephoceen.fr/infos-om/autour-de-l-om/om-milik-l-euro-en-ligne-de-mire-187244" rel="external nofollow" class="m-shared__item btn btn--twitter" onclick="return xt_click(this,'C','11','boutons_sociaux::Partage_article::twitter::om_milik_l_euro_en_ligne_de_mire','A')" data-social="twitter"><i class="ion-social-twitter"></i> <span class="m-shared__item__text">Tweeter</span></a>
+</div>						<div class="m-news__text m-content__text clearfix">
+		<div class="m-adbanner m-bloc m-adbanner--newsinread" data-zoneid="14" data-id="233" data-page="NewsWithVideo">
+	
+<div id="intext"></div>
+<div id="197-11"><script src="//ads.themoneytizer.com/s/gen.js?type=11"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=197&formatId=11"></script></div>
+</div>
+
+<script type="text/javascript">
+adbannertostatistic(14,233);
+</script>
+
+<p>Auteur de débuts prometteurs dans la citée phocéenne, <strong>Arkadiusz Milik</strong> a été rappelé en sélection polonaise. En effet, l’ancien napolitain a inscrit 4 buts en 8 apparitions avec l'OM, de plus, <span style="text-decoration: underline;"><strong><a href="https://www.lephoceen.fr/infos-om/autour-de-l-om/nice-om-milik-il-est-la-le-grand-attaquant-187160" target="_blank" rel="noopener">il a réussi à s’intégrer directement au collectif marseillais</a></strong></span>. Milik pèse sur les défenses adverses notamment grâce à son gabarit (1m89 pour 78kg), mais aussi grâce à sa mobilité. Le numéro 19 marseillais se montre dangereux avec ses appels à la limite du hors-jeu. Grâce à ses performances, il s’est directement imposé comme l’attaquant titulaire de l’Olympique de Marseille. Le Polonais a connu des périodes compliquées en Italie : victime de blessures à répétition, les questions étaient légitimes sur sa capacité à revenir au haut niveau. Cependant, il a réussi à faire taire ses détracteurs et est maintenant récompensé en rejoignant ses compatriotes.</p>
+<h2>La concurrence Lewandowski en sélection</h2>
+<p>Dans l’ombre de Robert Lewandowski en sélection, l’attaquant marseillais n’est pas un titulaire indiscutable. Le sélectionneur de la Pologne Paulo Sousa aligne la plupart du temps le scoreur du Bayern de Munich. La tactique de Sousa n’est cependant pas définie. En effet, les Polonais peuvent jouer avec un attaquant, mais aussi à deux pointes selon l'opposition du soir et les intentions de jeu de leur coach. A ce moment-là, Milik pourrait être aligné aux côtés du joueur Bavarois. Les deux compères avaient d’ailleurs formé un duo de choc durant les éliminatoires de l’Euro 2016, où ils avaient inscrit 19 buts à eux deux (6 pour Milik). Ces récentes performances pourraient lui donner une chance de (re)devenir un titulaire régulier en attaque.</p>
+<h2>L'Euro à tout prix</h2>
+<p>Si le duo Lewandowski-Milik se révèle concluant, les grandes écuries européennes pourraient alors se pencher sur le profil du néo-marseillais. Les rendez-vous internationaux sont toujours très scrutés par les recruteurs. De plus, la Juventus est déjà intéressée par le profil du Polonais. Cela pourrait être alors une perte de poids pour l’OM, qui venait de mettre la main sur son « grantatakan ». A l’occasion des éliminatoires pour la coupe du Monde 2022, Milik pourrait être sous les projecteurs s’il effectue des bons matchs face à la Hongrie, Andorre, ou encore l’Angleterre. En attendant, l'attaquant olympien aura à coeur de retrouver une place de partant certain pour l'Euro avec sa sélection, un pari qui semble en bonne voie d'être gagné.</p>		</div>
+		<div class="BeOpinionWidget"> </div>										<div id="graphcomment-button"></div><div class="m-adbanner m-bloc m-adbanner--newsunder" data-zoneid="10" data-id="7" data-page="NewsWithVideo">
+	
+<div id="taboola-autosized-generated-2r"></div>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+window._taboola.push({mode: "autosized-generated-2r", container: "taboola-autosized-generated-2r", placement: "article", target_type: 'mix'});
+</script>
+</div>
+
+<script type="text/javascript">
+adbannertostatistic(10,7);
+</script>
+
+<div id="graphcomment"></div>
+	</div>
+</div></div>
+					<div id="mainright" class="l-mainright l-mainitem table-cell"><div class="m-adbanner m-bloc m-adbanner--mainright_1" data-zoneid="3" data-id="219" data-page="NewsWithVideo">
+	
+<div style="text-align: center; margin: auto; display: block;">
+<a href="https://www.lephoceen.fr/videos/zap-info"><img src="https://static.lephoceen.net/images/re.clame/autopromo_bouton_zap.png" alt="Zap Info tous les vendredi" /></a>
+</div>
+</div>
+
+<script type="text/javascript">
+adbannertostatistic(3,219);
+</script>
+
+<div class="m-slide m-bloc m-bloc--card">
+	<div class="m-slide__body m-bloc__body">
+		<div class="m-slide__match m-slide__match--last">
+			<div class="table">
+				<div class="table-row">					
+															<div class="m-slide__col table-cell m-slide__col--logohome">
+						<img class="m-slide__logo" src="https://static.lephoceen.net/cache/images/dc6d3a6e419ee69b4170e6ff1f3e4b62.png" style="width: 100%; max-width: 26px" alt="" />					</div>
+															<div class="m-slide__col table-cell m-slide__col--logoaway">
+						<img class="m-slide__logo" src="https://static.lephoceen.net/cache/images/2aa529e9abac784a0c2d45b6221480f9.png" style="width: 100%; max-width: 26px" alt="" />					</div>
+										<div class="m-slide__col table-cell m-slide__col--details">
+						<p class="m-slide__team">Nice 3-0 OM</p>
+						<p class="m-slide__date">sam. 20/03</p>			
+						<p class="m-slide__broadcaster">17:00 <img class="m-slide__broadcaster" src="https://static.lephoceen.net/cache/images/2a7bd7881fd92bf81cec764a95b0679a.png" style="width: 100%; max-width: 35px" alt="" /></p> 
+					</div>
+										<div class="m-slide__col table-cell m-slide__col--nav" data-targetclass="m-slide__match--next">
+						<p>PROCHAIN</p>
+						<p>MATCH</p>
+					</div>
+										
+					<div class="m-slide__col table-cell m-slide__col--betlink" style="width: 100px;">
+						<a href="https://www.winamax.fr/landing/landing_leads.php?ldg=1er-pari-rembourse&banid=33643" rel="nofollow external"><img alt="PARIEZ" src="https://static.lephoceen.net/cache/images/798e397d5948804a06b36e3a25f7275b.jpg" style="width:100px;"/></a>
+					</div>
+									</div>
+			</div>
+		</div>
+		<div class="m-slide__match m-slide__match--next active">			
+			<div class="table">
+				<div class="table-row">
+															<div class="m-slide__col table-cell m-slide__col--logohome">
+						<img class="m-slide__logo" src="https://static.lephoceen.net/cache/images/2aa529e9abac784a0c2d45b6221480f9.png" style="width: 100%; max-width: 26px" alt="" />					</div>
+															<div class="m-slide__col table-cell m-slide__col--logoaway">
+						<img class="m-slide__logo" src="https://static.lephoceen.net/cache/images/d1d4459de9612ac0d25aba83bef1cc8e.png" style="width: 100%; max-width: 26px" alt="" />					</div>
+										<div class="m-slide__col table-cell m-slide__col--details">
+						<p class="m-slide__team">OM - Dijon</p>
+						<p class="m-slide__date">dim. 04/04</p>			
+						<p class="m-slide__broadcaster">21:00 <img class="m-slide__broadcaster" src="https://static.lephoceen.net/cache/images/2a7bd7881fd92bf81cec764a95b0679a.png" style="width: 100%; max-width: 35px" alt="" /></p> 
+					</div>
+										<div class="m-slide__col table-cell m-slide__col--nav" data-targetclass="m-slide__match--last">
+						<p>DERNIER</p>
+						<p>MATCH</p>
+					</div>
+										
+					<div class="m-slide__col table-cell m-slide__col--betlink" style="width: 100px;">
+						<a href="https://www.winamax.fr/landing/landing_leads.php?ldg=1er-pari-rembourse&banid=33643" rel="nofollow external"><img alt="PARIEZ" src="https://static.lephoceen.net/cache/images/798e397d5948804a06b36e3a25f7275b.jpg" style="width:100px;"/></a>
+					</div>
+										
+				</div>
+			</div>			
+			
+			
+			
+		</div>
+	</div>
+</div><div id="newsbox" class="m-newsbox m-bloc m-bloc--card m-bloc--header m-bloc--footer">
+	<div class="m-newsbox__header m-bloc__header">
+		<p class="clearfix"><i class="ion-ios-clock-outline"></i>L'actu en direct</p>
+	</div>
+	<div class="carouselcontainer">
+	<div class="m-newsbox__body m-bloc__body">
+		<div class="m-newsbox__timeline">&nbsp;</div>
+		<div class="m-newsbox__pagecontainer" data-page-url="https://api.lephoceen.fr/content/?tProperties%5Btitle%5D=1&amp;tProperties%5Bcategory_name_list%5D=1&amp;tProperties%5Burl%5D=1&amp;tProperties%5Bdate%5D=1&amp;tProperties%5Bimportant%5D=1&amp;tProperties%5Bpubli%5D=1&amp;tProperties%5Bis_sensitive%5D=1&amp;tProperties%5Bis_reviewed%5D=1&amp;limit=13&amp;newsbox=1">
+			<ul class="m-newsbox__page m-newsbox__page--1 carousel__page carousel__page--1 table" data-page="1" data-page-next="2" data-page-prev="">
+	<li class="m-newsbox__item table-row m-newsbox__today">
+		<p class="m-newsbox__date table-cell"><span>08:00</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/autour-de-l-om/om-kamara-titulaire-avec-les-espoirs-187265" onclick="ga('send', 'event', 'News', 'clic_187265', 'newsbox')" class="link-main">
+			OM : Kamara titulaire avec les Espoirs
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row m-newsbox__today">
+		<p class="m-newsbox__date table-cell"><span>07:42</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="http://www.lephoceen.fr/live/le-tour-du-web-du-25-mars-1566" onclick="ga('send', 'event', 'News', 'clic_187264', 'newsbox')" class="link-main">
+			Foot : décès d'un jeune milieu de la Lazio
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row m-newsbox__today">
+		<p class="m-newsbox__date table-cell"><span>07:35</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/autour-de-l-om/om-quatre-joueurs-aux-soins-un-au-repos-187263" onclick="ga('send', 'event', 'News', 'clic_187263', 'newsbox')" class="link-main">
+			OM : quatre joueurs aux soins, un au repos
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row m-newsbox__today">
+		<p class="m-newsbox__date table-cell"><span>01:00</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/autour-de-l-om/om-quel-avenir-pour-hiroki-sakai-187253" onclick="ga('send', 'event', 'News', 'clic_187253', 'newsbox')" class="link-main">
+			OM : quel avenir pour Hiroki Sakai ?
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/autour-de-l-om/internationaux-om-la-croatie-de-caleta-car-part-tres-mal-les-bleus-se-manquent-187255" onclick="ga('send', 'event', 'News', 'clic_187255', 'newsbox')" class="link-main">
+			Internationaux OM : la Croatie de Caleta-Car part très mal, les Bleus se manquent
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/saison/om-caleta-car-sera-bien-suspendu-187262" onclick="ga('send', 'event', 'News', 'clic_187262', 'newsbox')" class="link-main">
+			OM : Caleta-Car sera bien suspendu
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/autour-de-l-om/om-milik-l-euro-en-ligne-de-mire-187244" onclick="ga('send', 'event', 'News', 'clic_187244', 'newsbox')" class="link-main">
+			OM : Milik, l'Euro en ligne de mire 
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/autour-de-l-om/olmeta-sampaoli-ne-peut-que-reussir-187260" onclick="ga('send', 'event', 'News', 'clic_187260', 'newsbox')" class="link-main">
+			Olmeta : &quot;Sampaoli ne peut que réussir&quot;
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/autour-de-l-om/les-championnats-amateurs-definitivement-arretes-187261" onclick="ga('send', 'event', 'News', 'clic_187261', 'newsbox')" class="link-main">
+			Les championnats amateurs définitivement arrêtés
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/saison/internationaux-om-trois-olympiens-jouent-ce-mercredi-187142" onclick="ga('send', 'event', 'News', 'clic_187142', 'newsbox')" class="link-main">
+			Internationaux OM : trois Olympiens jouent ce mercredi
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="http://www.lephoceen.fr/live/le-tour-du-web-du-24-mars-1565" onclick="ga('send', 'event', 'News', 'clic_187246', 'newsbox')" class="link-main">
+			Foot : les meilleurs clubs de la décennie
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/videos-om/au-coeur-de-la-commanderie/om-l-entrainement-de-sampaoli-decrypte-187259" onclick="ga('send', 'event', 'News', 'clic_187259', 'newsbox')" class="link-main">
+			OM : l'entraînement de Sampaoli décrypté
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/autour-de-l-om/uefa-bientot-la-fin-du-fair-play-financier-187254" onclick="ga('send', 'event', 'News', 'clic_187254', 'newsbox')" class="link-main">
+			UEFA : bientôt la fin du Fair-play Financier ?
+		</a>
+		</p>
+	</li>
+</ul>
+
+<ul class="m-newsbox__page m-newsbox__page--2 carousel__page carousel__page--2 table hidden" data-page="2" data-page-next="3" data-page-prev="1">
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/videos-om/au-coeur-de-la-commanderie/om-les-jolis-buts-de-benedetto-et-luis-henrique-187258" onclick="ga('send', 'event', 'News', 'clic_187258', 'newsbox')" class="link-main">
+			OM : les jolis buts de Benedetto et Luis Henrique
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/interview/om-durand-fait-le-parallele-entre-longoria-et-pape-diouf-187256" onclick="ga('send', 'event', 'News', 'clic_187256', 'newsbox')" class="link-main">
+			OM : Durand fait le parallèle entre Longoria et Pape Diouf
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/autour-de-l-om/om-rongier-ecourte-son-entrainement-187257" onclick="ga('send', 'event', 'News', 'clic_187257', 'newsbox')" class="link-main">
+			OM : Rongier écourte son entraînement
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/publi/le-phoceen-vous-donne-du-pouvoir-d-achat-gratuitement-186821" onclick="ga('send', 'event', 'News', 'clic_186821', 'newsbox')" class="link-main important commercial">
+			Le Phocéen vous donne du pouvoir d'achat gratuitement !
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/autour-de-l-om/om-les-reponses-sur-germain-alvaro-et-mandanda-187236" onclick="ga('send', 'event', 'News', 'clic_187236', 'newsbox')" class="link-main">
+			OM : les réponses sur Germain, Alvaro et Mandanda
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/autour-de-l-om/om-le-dossier-balerdi-se-complique-187251" onclick="ga('send', 'event', 'News', 'clic_187251', 'newsbox')" class="link-main">
+			OM : le dossier Balerdi se complique
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/saison/om-tongya-et-phliponeau-integres-par-sampaoli-187252" onclick="ga('send', 'event', 'News', 'clic_187252', 'newsbox')" class="link-main">
+			OM : Tongya et Phliponeau intégrés par Sampaoli
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/autour-de-l-om/exclusivite-decouvrez-le-nouveau-phoceen-187233" onclick="ga('send', 'event', 'News', 'clic_187233', 'newsbox')" class="link-main">
+			Exclusivité : découvrez le nouveau Phocéen !
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/autour-de-l-om/luis-henrique-a-des-similitudes-avec-mbappe-187250" onclick="ga('send', 'event', 'News', 'clic_187250', 'newsbox')" class="link-main">
+			&quot;Luis Henrique a des similitudes avec Mbappé&quot;
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/autour-de-l-om/tv-psg-lyon-puis-france-ukraine-au-programme-187249" onclick="ga('send', 'event', 'News', 'clic_187249', 'newsbox')" class="link-main">
+			TV : PSG-Lyon puis France-Ukraine au programme
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/mercato/om-le-bayern-pret-a-baisser-le-prix-de-cuisance-187248" onclick="ga('send', 'event', 'News', 'clic_187248', 'newsbox')" class="link-main">
+			OM : le Bayern prêt à baisser le prix de Cuisance ?
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/mercato/mercato-om-un-club-espagnol-veut-balerdi-187247" onclick="ga('send', 'event', 'News', 'clic_187247', 'newsbox')" class="link-main">
+			Mercato OM : un club espagnol veut Balerdi
+		</a>
+		</p>
+	</li>
+	<li class="m-newsbox__item table-row">
+		<p class="m-newsbox__date table-cell"><span>24/03</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="https://www.lephoceen.fr/infos-om/autour-de-l-om/om-des-clubs-italiens-et-anglais-sur-amavi-187245" onclick="ga('send', 'event', 'News', 'clic_187245', 'newsbox')" class="link-main">
+			OM : des clubs italiens et anglais sur Amavi
+		</a>
+		</p>
+	</li>
+</ul>
+
+		
+		</div>
+	</div>
+	<div class="m-newsbox__footer m-bloc__footer clearfix">		
+		<div class="m-newsbox__navcontainer">
+			<i class="ion-ios-arrow-up hidden m-newsbox__prev m-bloc__footer__nav prev"></i> <i class="ion-ios-arrow-down hidden m-newsbox__next m-bloc__footer__nav next"></i>
+		</div>
+	</div>
+	</div>
+</div>
+<script id="newsbox-template" type="x-tmpl-mustache">
+<ul class="m-newsbox__page m-newsbox__page--{{page}} carousel__page carousel__page--{{page}} table{{#hidepage}} hidden{{/hidepage}}" data-page="{{page}}" data-page-next="{{page_next}}" data-page-prev="{{page_prev}}">
+	{{#content}}
+	<li class="m-newsbox__item table-row{{#contentoftheday}} m-newsbox__today{{/contentoftheday}}{{#is_sensitive}} m-newsbox__sensitive{{/is_sensitive}}{{^is_reviewed}} m-newsbox__commentnocheck{{/is_reviewed}}">
+		<p class="m-newsbox__date table-cell"><span>{{#contentoftheday}}{{date.hour}}{{/contentoftheday}}{{^contentoftheday}}{{date.shortdate}}{{/contentoftheday}}</span></p>
+		<p class="m-newsbox__itemtitle table-cell link-block">
+		<a href="{{url}}"{{#externallink}} rel="external nofollow" target="_blank"{{/externallink}} onclick="ga('send', 'event', 'News', 'clic_{{id}}', 'newsbox')" class="link-main{{#optionImportant}} important{{/optionImportant}}{{#publi}} commercial{{/publi}}">
+			{{title}}
+		</a>
+		</p>
+	</li>
+	{{/content}}
+</ul>
+
+</script>
+<div class="m-adbanner--mainright--sticky"><div class="m-adbanner m-bloc m-adbanner--mainright_3" data-zoneid="5" data-id="229" data-page="NewsWithVideo">
+	
+<div id="197-3"><script src="//ads.themoneytizer.com/s/gen.js?type=3"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=197&formatId=3" ></script></div>
+</div>
+
+<script type="text/javascript">
+adbannertostatistic(5,229);
+</script>
+
+<div class="m-adbanner m-bloc m-adbanner--mainright_3" data-zoneid="5" data-id="158" data-page="NewsWithVideo">
+	
+<iframe width="300" height="170" src="https://static.winamax.fr/img/banners/betting/2019/20191007_phoceen300170/new_300_250.html?equipe1=1641&banid=34464" scrolling="no"></iframe>
+</div>
+
+<script type="text/javascript">
+adbannertostatistic(5,158);
+</script>
+
+
+<div class="m-tableranking m-bloc m-bloc--card m-bloc--header m-tableranking--">
+	<div class="m-tableranking__header m-bloc__header">
+		<i class="ion-stats-bars m-tableranking__headericon"></i>Classement		
+						<p class="m-tableranking__more"><span class="m-tableranking__moretext"><a href="https://www.lephoceen.fr/classement/ligue-1">Plus de détails</a></span></p>
+			</div>
+	<div class="m-tableranking__body m-bloc__body">	
+		<table class="m-tableranking__table">
+			<thead>
+				<tr class="m-tableranking__line m-tableranking__line--header">
+					<th class="m-tableranking__col m-tableranking__col--pos">&nbsp;</th>					<th class="m-tableranking__col m-tableranking__col--logo">&nbsp;</th>					<th class="m-tableranking__col m-tableranking__col--club">Clubs</th>					<th class="m-tableranking__col m-tableranking__col--pts">Pts</th>					<th class="m-tableranking__col m-tableranking__col--played">J</th>							
+																									<th class="m-tableranking__col m-tableranking__col--gd">Diff</th>				</tr>
+			</thead>
+			<tbody>
+								<tr class="m-tableranking__line">
+					<td class="m-tableranking__col m-tableranking__col--pos">3</td>					<td class="m-tableranking__col m-tableranking__col--logo"><img src="https://static.lephoceen.net/cache/images/7c9eb2a639c99e97c4b26f2755004b76.png" style="width: 100%; max-width: 14px" alt="" /></td>					<td class="m-tableranking__col m-tableranking__col--club">Lyon</td>					<td class="m-tableranking__col m-tableranking__col--pts">60</td>					<td class="m-tableranking__col m-tableranking__col--played">30</td>																														<td class="m-tableranking__col m-tableranking__col--gd">29</td>				</tr>
+								<tr class="m-tableranking__line">
+					<td class="m-tableranking__col m-tableranking__col--pos">4</td>					<td class="m-tableranking__col m-tableranking__col--logo"><img src="https://static.lephoceen.net/cache/images/3d5344669ffbd1e3e80b628a2602b864.png" style="width: 100%; max-width: 14px" alt="" /></td>					<td class="m-tableranking__col m-tableranking__col--club">Monaco</td>					<td class="m-tableranking__col m-tableranking__col--pts">59</td>					<td class="m-tableranking__col m-tableranking__col--played">30</td>																														<td class="m-tableranking__col m-tableranking__col--gd">22</td>				</tr>
+								<tr class="m-tableranking__line">
+					<td class="m-tableranking__col m-tableranking__col--pos">5</td>					<td class="m-tableranking__col m-tableranking__col--logo"><img src="https://static.lephoceen.net/cache/images/ea37a207274ea5e7247bcca76d547de1.png" style="width: 100%; max-width: 14px" alt="" /></td>					<td class="m-tableranking__col m-tableranking__col--club">Lens</td>					<td class="m-tableranking__col m-tableranking__col--pts">48</td>					<td class="m-tableranking__col m-tableranking__col--played">30</td>																														<td class="m-tableranking__col m-tableranking__col--gd">4</td>				</tr>
+								<tr class="m-tableranking__line m-tableranking__line--defaultteam">
+					<td class="m-tableranking__col m-tableranking__col--pos">6</td>					<td class="m-tableranking__col m-tableranking__col--logo"><img src="https://static.lephoceen.net/cache/images/059b0bb1c48939c966b122384a61913d.png" style="width: 100%; max-width: 14px" alt="" /></td>					<td class="m-tableranking__col m-tableranking__col--club">OM</td>					<td class="m-tableranking__col m-tableranking__col--pts">45</td>					<td class="m-tableranking__col m-tableranking__col--played">30</td>																														<td class="m-tableranking__col m-tableranking__col--gd">2</td>				</tr>
+								<tr class="m-tableranking__line">
+					<td class="m-tableranking__col m-tableranking__col--pos">7</td>					<td class="m-tableranking__col m-tableranking__col--logo"><img src="https://static.lephoceen.net/cache/images/9e720ac6fb158160938f831e4e31a9a4.png" style="width: 100%; max-width: 14px" alt="" /></td>					<td class="m-tableranking__col m-tableranking__col--club">Rennes</td>					<td class="m-tableranking__col m-tableranking__col--pts">44</td>					<td class="m-tableranking__col m-tableranking__col--played">30</td>																														<td class="m-tableranking__col m-tableranking__col--gd">4</td>				</tr>
+							</tbody>
+		</table>
+	</div>
+</div>
+
+<div class="m-adbanner m-bloc m-adbanner--mainright_7" data-zoneid="9" data-id="227" data-page="NewsWithVideo">
+	
+<div id="197-19"><script src="//ads.themoneytizer.com/s/gen.js?type=19"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=197&formatId=19" ></script></div>
+</div>
+
+<script type="text/javascript">
+adbannertostatistic(9,227);
+</script>
+
+</div></div>				</div>
+			</div>
+			<div class="m-adbanner m-bloc m-adbanner--megabanfooter" data-zoneid="13" data-id="226" data-page="NewsWithVideo">
+	
+<div id="197-28"><script src="//ads.themoneytizer.com/s/gen.js?type=28"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=197&formatId=28" ></script></div>
+</div>
+
+<script type="text/javascript">
+adbannertostatistic(13,226);
+</script>
+
+		</div>
+	</div>
+	<footer class="l-footer">
+		<div class="l-constrained"><p class="l-footer__title">Partenaires</p>
+<table class="l-footer__table">
+	<thead>
+		<tr>
+			<th class="l-footer__col">Web</th>
+			<th class="l-footer__col">Presse</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td class="l-footer__col">
+				<a href="http://www.footmercato.net/" rel="external"><img src="https://static.lephoceen.net/cache/images/644aa3dec578fc092439977de54a0428.png" alt="" style="width:100%;max-width:106px;"/></a>
+				<a href="https://www.bosquier.com/" rel="external"><img src="https://static.lephoceen.net/cache/images/474f3bec6843d00aeb0af15f8903f07f.png" alt="" style="width:100%;max-width:105px;"/></a>
+				<a href="http://unmaillotpourlavie.com/accueil" rel="external"><img src="https://static.lephoceen.net/cache/images/2991f029c957acf85daf8e33712df0b6.png" alt="" style="width:100%;max-width:105px;"/></a>
+			</td>
+
+			<td class="l-footer__col">
+				<a href="https://www.sofoot.com/" rel="external"><img src="https://static.lephoceen.net/cache/images/91b110b98ef0f1bded7d429041ce4946.jpg" alt="" style="width:100%;max-width:90px;"/></a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class="l-footer__table">
+	<thead>
+	<tr>
+		<th class="l-footer__col">Transferts et actualité de l'OM avec le Phocéen</th>
+		<th class="l-footer__col">Toutes les infos sur l'OM</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td class="l-footer__col">
+			Le Phocéen est un site dédié à l'actualité de l'Olympique de Marseille. Retrouvez chaque jour toutes les informations en temps réel liées au club olympien. Mais aussi les rumeurs transferts et mercato de l'OM.
+		</td>
+		<td class="l-footer__col">
+			Tout savoir sur l'Olympique de Marseille, vous vous trouvez sur le site incontournable des supporters de l'OM. Analyse des résultats, buts et performances des joueurs après chaque match de foot du club phocéen (Ligue 1, Ligue des champions...).
+		</td>
+	</tr>
+	</tbody>
+</table>
+<div class="l-footer__line">
+	<div>
+		Le Phocéen est inscrit à la Cnil - n°1309280 |
+		<a href="https://www.lephoceen.fr/-annonceurs-">Annonceurs</a> |
+		<a href="https://support.lephoceen.fr" target="_blank">Contacts</a> |
+		<a href="https://www.lephoceen.fr/-credits-">Crédits</a> |
+		<a href="https://www.lephoceen.fr/-cgu-">Conditions générales d'utilisation</a> |
+		<a href="https://www.lephoceen.fr/-politique_de_confidentialite-">Politique de confidentialité</a> |
+		<a href="https://www.lephoceen.fr/-mentions_legales-">Mentions Légales</a>
+	</div>
+	<div>
+		Copyright © "1997-2021" Le Phocéen - Tous droits réservés.
+	</div>
+</div></div>
+	</footer>
+	</div><script type="text/javascript">
+        window.onGcLoaded = function() { 
+        window.gcSsoLogout();
+    }
+    
+    /* - - - CONFIGURATION VARIABLES: MAKE SURE THE ID IS YOURS - - - */
+    window.graphcomment_inapp = false;
+    window.gc_params = {
+        graphcomment_id:'LePhoceen',
+        uid: 'content187244',
+        fixed_header_height: 45,
+        target: document.querySelector('#graphcomment'),        overlay: {
+          page_width: 1000,
+          zindex: 2147483647,
+          visible: false,
+          alternate: false,
+          bubble: false,
+          button: {            link: 'https://www.lephoceen.fr/infos-om/autour-de-l-om/om-milik-l-euro-en-ligne-de-mire-187244/commentaires',
+            mobile_link: 'https://www.lephoceen.fr/infos-om/autour-de-l-om/om-milik-l-euro-en-ligne-de-mire-187244/commentaires',
+            label: 'Commentaires',
+            background: '#F77F00',
+            target: document.getElementById('graphcomment-button'),
+            }
+        }    };
+    
+    
+    /* - - - DON'T EDIT BELOW THIS LINE - - - */
+    (function () {
+        var gc = document.createElement('script');
+        gc.type = 'text/javascript';
+        gc.async = true;
+        gc.src = 'https://graphcomment.com/js/integration.js?' + Math.round(Math.random() * 1e5);
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+    })();
+    
+</script>
+<script src="https://static.lephoceen.net/js/common.min.js?v=1593551511"></script>
+</body></html>
